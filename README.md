@@ -8,7 +8,7 @@
  My Skills:
  <br>
  <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,c,cpp,github,java,matlab,mysql,nodejs,py,r,react,tailwind&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,c,cpp,github,java,matlab,mysql,nodejs,py,r,react,tailwind)](https://skillicons.dev)
 
 <!--
 **pranavabraham/pranavabraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
